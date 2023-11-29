@@ -21,7 +21,7 @@ def on_disconnect(client, userdata, flags, rc=0):
 
 
 port = 1883
-broker_address = "192.168.0.153" # Specify broker address; run ipconfig on a terminal, use the ipv4 address of your device
+broker_address = "0.0.0.0" # Specify broker address; run ipconfig on a terminal, use the ipv4 address of your device
 message_interval = 1
 
 client = mqtt.Client('P1')
