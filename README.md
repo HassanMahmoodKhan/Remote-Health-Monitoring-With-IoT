@@ -1,5 +1,5 @@
 # Remote-Health-Monitoring
-An IoT architecture that integrates various sensors, embedded devices, and lightweight communication protocol to collect and transmit patient data for analytics and processing.
+An IoT architecture that integrates health sensors, embedded devices, with the lightweight MQTT communication protocol to perform patient health anomaly detection using machine learning and data analytics.
 
 ## Architecture
 We leverage the Publisher-Subscriber communication paradigm for the project's implementation. It is an event-driven model, where the publisher and subscriber are decoupled from each other and allow for instant updates whenever associated values change.
