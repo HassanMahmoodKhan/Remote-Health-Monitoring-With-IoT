@@ -1,4 +1,4 @@
-# Remote-Health-Monitoring
+# Remote-Health-Monitoring-With-IoT
 An IoT architecture that integrates health sensors, embedded devices, with the lightweight MQTT communication protocol to perform patient health anomaly detection using machine learning and data analytics.
 
 ## Architecture
